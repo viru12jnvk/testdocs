@@ -1,5 +1,5 @@
 site_name: TEST
-site_url: https://viru12jnvk.github.io/testdocs/
+site_url: https://azurelearn1.github.io/testdocs/
 theme:
   name: material
   features:
@@ -8,7 +8,7 @@ theme:
     - content.code.copy
     - navigation.indexes
 
-repo_url: https://github.com/viru12jnvk/testdocs
+repo_url: https://github.com/AzureLearn1/testdocs
 repo_name: testdocs
 
 plugins:
